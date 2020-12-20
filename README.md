@@ -1,1 +1,1 @@
-# skope-closure
+# scope-closure
